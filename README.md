@@ -1,4 +1,4 @@
-# ESTRUCTURA DE DATOS DE TIPO COLA
+# ESTRUCTURA DE DATOS DE TIPO FIFO
 # Taller estructura de datos : Comportamiento de una cola | Interfaz gráfica React
 # Por : Yerlinson Maturana 
 # @Uniclaretiana
